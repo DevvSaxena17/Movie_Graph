@@ -24,7 +24,6 @@ Movie Graph Explorer is a Python-based tool that demonstrates the power of graph
 - `data/` — Sample data files (CSV, JSON, etc.)
 - `scripts/` — Python scripts to interact with Neo4j
 - `schema/` — Cypher queries for schema and data
-- `screenshots/` — Project screenshots and visualizations
 
 ## Requirements
 - Python 3.x
